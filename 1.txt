@@ -4,3 +4,4 @@ git commit-m “<3>”
 git commit-m “<4>”
 git commit-m “<5>”
 git commit-m “<6>”
+git commit-m “<7>”
